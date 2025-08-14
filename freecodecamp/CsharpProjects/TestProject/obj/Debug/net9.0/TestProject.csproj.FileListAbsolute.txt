@@ -12,3 +12,4 @@ F:\dot-net\freecodecamp\CsharpProjects\TestProject\obj\Debug\net9.0\refint\TestP
 F:\dot-net\freecodecamp\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.pdb
 F:\dot-net\freecodecamp\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
 F:\dot-net\freecodecamp\CsharpProjects\TestProject\obj\Debug\net9.0\ref\TestProject.dll
+F:\dot-net\freecodecamp\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.sourcelink.json
