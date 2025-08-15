@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Calculator";
+}
+
+<h2>Simple Calculator</h2>
+
+<form method="post">
+    <input type="number" step="any" name="number1" required />
+    <select name="operation">
+        <option value="Add">+</option>
+        <option value="Subtract">-</option>
+        <option value="Multiply">*</option>
+        <option value="Divide">/</option>
+    </select>
+    <input type="number" step="any" name="number2" required />
+    <button type="submit">Calculate</button>
+</form>
+
+@if (ViewBag.Result != null)
+{
+    <h3>Result: @ViewBag.Result</h3>
+}
+
+@if (ViewBag.Recent != null && ((List<string>)ViewBag.Recent).Count > 0)
+{
+    <h3>Recent Calculations</h3>
+    <ul>
+        @foreach (var calc in (List<string>)ViewBag.Recent)
+        {
+            <li>@calc</li>
+        }
+    </ul>
+}
