@@ -1,0 +1,27 @@
+{
+  "description": "A sample MCP server with weather and random number tools",
+  "name": "io.github.theshriramgupta/dot-net/MCP_Server/SampleMcpServer", 
+  "packages": [
+    {
+      "registry_name": "nuget",
+      "name": "theshriramgupta/dot-net/MCP_Server.SampleMcpServer", 
+      "version": "1.0.0",
+      "package_arguments": [],
+      "environment_variables": [
+        {
+          "name": "WEATHER_CHOICES",
+          "description": "Comma separated list of weather descriptions",
+          "is_required": true,
+          "is_secret": false
+        }
+      ]
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/theshriramgupta/dot-net/MCP_Server/SampleMcpServer",
+    "source": "github"
+  },
+  "version_detail": {
+    "version": "1.0.0"
+  }
+}
