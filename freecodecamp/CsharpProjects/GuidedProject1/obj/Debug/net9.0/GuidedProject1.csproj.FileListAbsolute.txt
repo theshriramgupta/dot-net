@@ -1,0 +1,15 @@
+F:\dot-net\freecodecamp\CsharpProjects\GuidedProject1\bin\Debug\net9.0\GuidedProject1.exe
+F:\dot-net\freecodecamp\CsharpProjects\GuidedProject1\bin\Debug\net9.0\GuidedProject1.deps.json
+F:\dot-net\freecodecamp\CsharpProjects\GuidedProject1\bin\Debug\net9.0\GuidedProject1.runtimeconfig.json
+F:\dot-net\freecodecamp\CsharpProjects\GuidedProject1\bin\Debug\net9.0\GuidedProject1.dll
+F:\dot-net\freecodecamp\CsharpProjects\GuidedProject1\bin\Debug\net9.0\GuidedProject1.pdb
+F:\dot-net\freecodecamp\CsharpProjects\GuidedProject1\obj\Debug\net9.0\GuidedProject1.GeneratedMSBuildEditorConfig.editorconfig
+F:\dot-net\freecodecamp\CsharpProjects\GuidedProject1\obj\Debug\net9.0\GuidedProject1.AssemblyInfoInputs.cache
+F:\dot-net\freecodecamp\CsharpProjects\GuidedProject1\obj\Debug\net9.0\GuidedProject1.AssemblyInfo.cs
+F:\dot-net\freecodecamp\CsharpProjects\GuidedProject1\obj\Debug\net9.0\GuidedProject1.csproj.CoreCompileInputs.cache
+F:\dot-net\freecodecamp\CsharpProjects\GuidedProject1\obj\Debug\net9.0\GuidedProject1.sourcelink.json
+F:\dot-net\freecodecamp\CsharpProjects\GuidedProject1\obj\Debug\net9.0\GuidedProject1.dll
+F:\dot-net\freecodecamp\CsharpProjects\GuidedProject1\obj\Debug\net9.0\refint\GuidedProject1.dll
+F:\dot-net\freecodecamp\CsharpProjects\GuidedProject1\obj\Debug\net9.0\GuidedProject1.pdb
+F:\dot-net\freecodecamp\CsharpProjects\GuidedProject1\obj\Debug\net9.0\GuidedProject1.genruntimeconfig.cache
+F:\dot-net\freecodecamp\CsharpProjects\GuidedProject1\obj\Debug\net9.0\ref\GuidedProject1.dll

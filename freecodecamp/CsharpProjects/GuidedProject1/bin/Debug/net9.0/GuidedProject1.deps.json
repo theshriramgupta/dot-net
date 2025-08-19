@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GuidedProject1/1.0.0": {
+        "runtime": {
+          "GuidedProject1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuidedProject1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
