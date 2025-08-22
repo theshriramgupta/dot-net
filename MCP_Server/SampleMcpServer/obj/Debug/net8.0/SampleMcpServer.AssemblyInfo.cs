@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("An MCP server using the MCP C# SDK.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf556577607afa761b741124fe2b5502137e326b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7768477c0d9021390ca690c7b01d068582fe6516")]
 [assembly: System.Reflection.AssemblyProductAttribute("SampleMcpServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SampleMcpServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

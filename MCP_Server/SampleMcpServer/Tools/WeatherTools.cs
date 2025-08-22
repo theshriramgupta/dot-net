@@ -1,22 +1,29 @@
-[McpServerTool]
-[Description("Describes random weather in the provided city.")]
+using System;
+using System.ComponentModel;
 
-public class WeatherTool
+
+
+
+namespace SampleMcpServer.Tools
 {
-    [McpServerTool]
-    [Description("Describes random weather in the provided city.")]
-    public string GetCityWeather(
-        [Description("Name of the city to return weather for")] string city)
+    public class WeatherTools
     {
-        var weather = Environment.GetEnvironmentVariable("WEATHER_CHOICES");
-        if (string.IsNullOrWhiteSpace(weather))
+        // [McpServerTool]
+        [Description("Describes random weather in the provided city.")]
+        public string GetCityWeather(
+            [Description("Name of the city to return weather for")] string city)
         {
-            weather = "balmy,rainy,stormy";
+            var weather = Environment.GetEnvironmentVariable("WEATHER_CHOICES");
+            if (string.IsNullOrWhiteSpace(weather))
+            {
+                weather = "balmy,rainy,stormy";
+            }
+
+            var weatherChoices = weather.Split(",");
+            var selectedWeatherIndex = Random.Shared.Next(0, weatherChoices.Length);
+
+            return $"The weather in {city} is {weatherChoices[selectedWeatherIndex]}.";
         }
-
-        var weatherChoices = weather.Split(",");
-        var selectedWeatherIndex = Random.Shared.Next(0, weatherChoices.Length);
-
-        return $"The weather in {city} is {weatherChoices[selectedWeatherIndex]}.";
     }
+
 }

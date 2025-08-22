@@ -1,6 +1,8 @@
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using SampleMcpServer.Tools;
+
 
 var builder = Host.CreateApplicationBuilder(args);
 
