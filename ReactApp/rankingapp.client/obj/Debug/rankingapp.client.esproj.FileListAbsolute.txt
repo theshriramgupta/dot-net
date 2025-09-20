@@ -1,0 +1,1 @@
+F:\dot-net\ReactApp\rankingapp.client\obj\Debug\rankingapp.client.esproj.CoreCompileInputs.cache

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\dot-net\\ReactApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E980DF0-4C55-47E4-8F0B-5234DE4230D9}|RankingApp.Server\\RankingApp.Server.csproj|f:\\dot-net\\reactapp\\rankingapp.server\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E980DF0-4C55-47E4-8F0B-5234DE4230D9}|RankingApp.Server\\RankingApp.Server.csproj|solutionrelative:rankingapp.server\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|f:\\dot-net\\reactapp\\rankingapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\dot-net\\ReactApp\\RankingApp.Server\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RankingApp.Server\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "F:\\dot-net\\ReactApp\\RankingApp.Server\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "RankingApp.Server\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T17:48:23.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "rankingapp.client\\src\\App.jsx",
+              "ToolTip": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\App.jsx",
+              "RelativeToolTip": "rankingapp.client\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-12T17:18:10.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

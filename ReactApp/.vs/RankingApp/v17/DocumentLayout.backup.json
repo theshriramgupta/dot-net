@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\dot-net\\ReactApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|f:\\dot-net\\reactapp\\rankingapp.client\\src\\components\\rankitemscontainer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\src\\components\\rankitemscontainer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|f:\\dot-net\\reactapp\\rankingapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|f:\\dot-net\\reactapp\\rankingapp.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|f:\\dot-net\\reactapp\\rankingapp.client\\src\\components\\rankitems.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\src\\components\\rankitems.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|f:\\dot-net\\reactapp\\rankingapp.client\\src\\components\\rankinggrid.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\src\\components\\rankinggrid.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|f:\\dot-net\\reactapp\\rankingapp.client\\src\\components\\navmenu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\src\\components\\navmenu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|f:\\dot-net\\reactapp\\rankingapp.client\\src\\components\\movieimages.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\src\\components\\movieimages.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|f:\\dot-net\\reactapp\\rankingapp.client\\src\\components\\layout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\src\\components\\layout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|f:\\dot-net\\reactapp\\rankingapp.client\\src\\components\\itemcollection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\src\\components\\itemcollection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|f:\\dot-net\\reactapp\\rankingapp.client\\src\\components\\item.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\src\\components\\item.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|f:\\dot-net\\reactapp\\rankingapp.client\\src\\components\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\src\\components\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|f:\\dot-net\\reactapp\\rankingapp.client\\src\\components\\fetchdata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\src\\components\\fetchdata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|f:\\dot-net\\reactapp\\rankingapp.client\\src\\components\\albumimages.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77608FAF-03B3-234E-BC30-07336D63B632}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\src\\components\\albumimages.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RankItemsContainer.js",
+              "DocumentMoniker": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\RankItemsContainer.js",
+              "RelativeDocumentMoniker": "rankingapp.client\\src\\components\\RankItemsContainer.js",
+              "ToolTip": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\RankItemsContainer.js",
+              "RelativeToolTip": "rankingapp.client\\src\\components\\RankItemsContainer.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-12T17:26:35.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RankingGrid.js",
+              "DocumentMoniker": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\RankingGrid.js",
+              "RelativeDocumentMoniker": "rankingapp.client\\src\\components\\RankingGrid.js",
+              "ToolTip": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\RankingGrid.js",
+              "RelativeToolTip": "rankingapp.client\\src\\components\\RankingGrid.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-12T17:26:12.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.js",
+              "DocumentMoniker": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\NavMenu.js",
+              "RelativeDocumentMoniker": "rankingapp.client\\src\\components\\NavMenu.js",
+              "ToolTip": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\NavMenu.js",
+              "RelativeToolTip": "rankingapp.client\\src\\components\\NavMenu.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-12T17:24:40.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieImages.js",
+              "DocumentMoniker": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\MovieImages.js",
+              "RelativeDocumentMoniker": "rankingapp.client\\src\\components\\MovieImages.js",
+              "ToolTip": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\MovieImages.js",
+              "RelativeToolTip": "rankingapp.client\\src\\components\\MovieImages.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-12T17:24:19.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Layout.js",
+              "DocumentMoniker": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\Layout.js",
+              "RelativeDocumentMoniker": "rankingapp.client\\src\\components\\Layout.js",
+              "ToolTip": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\Layout.js",
+              "RelativeToolTip": "rankingapp.client\\src\\components\\Layout.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-12T17:23:57.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemCollection.js",
+              "DocumentMoniker": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\ItemCollection.js",
+              "RelativeDocumentMoniker": "rankingapp.client\\src\\components\\ItemCollection.js",
+              "ToolTip": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\ItemCollection.js",
+              "RelativeToolTip": "rankingapp.client\\src\\components\\ItemCollection.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-12T17:23:19.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Item.js",
+              "DocumentMoniker": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\Item.js",
+              "RelativeDocumentMoniker": "rankingapp.client\\src\\components\\Item.js",
+              "ToolTip": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\Item.js",
+              "RelativeToolTip": "rankingapp.client\\src\\components\\Item.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-12T17:22:48.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.js",
+              "DocumentMoniker": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\Home.js",
+              "RelativeDocumentMoniker": "rankingapp.client\\src\\components\\Home.js",
+              "ToolTip": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\Home.js",
+              "RelativeToolTip": "rankingapp.client\\src\\components\\Home.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-12T17:22:24.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FetchData.js",
+              "DocumentMoniker": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\FetchData.js",
+              "RelativeDocumentMoniker": "rankingapp.client\\src\\components\\FetchData.js",
+              "ToolTip": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\FetchData.js",
+              "RelativeToolTip": "rankingapp.client\\src\\components\\FetchData.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-12T17:22:03.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AlbumImages.js",
+              "DocumentMoniker": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\AlbumImages.js",
+              "RelativeDocumentMoniker": "rankingapp.client\\src\\components\\AlbumImages.js",
+              "ToolTip": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\AlbumImages.js",
+              "RelativeToolTip": "rankingapp.client\\src\\components\\AlbumImages.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-12T17:21:35.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "rankingapp.client\\src\\App.jsx",
+              "ToolTip": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\App.jsx",
+              "RelativeToolTip": "rankingapp.client\\src\\App.jsx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-12T17:18:10.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.jsx",
+              "DocumentMoniker": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "rankingapp.client\\src\\main.jsx",
+              "ToolTip": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\main.jsx",
+              "RelativeToolTip": "rankingapp.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-12T17:16:57.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RankItems.js",
+              "DocumentMoniker": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\RankItems.js",
+              "RelativeDocumentMoniker": "rankingapp.client\\src\\components\\RankItems.js",
+              "ToolTip": "F:\\dot-net\\ReactApp\\rankingapp.client\\src\\components\\RankItems.js",
+              "RelativeToolTip": "rankingapp.client\\src\\components\\RankItems.js",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-12T08:15:11.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
