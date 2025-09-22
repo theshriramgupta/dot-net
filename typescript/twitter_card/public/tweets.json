@@ -1,0 +1,32 @@
+[
+  {
+    "avatarUrl": "https://i.pravatar.cc/100?img=1",
+    "username": "Jerma",
+    "handle": "@Jerma985",
+    "content": "I spent the last 20 min going line by line translating this old note I had on my iPhone. It was from a year ago. Freaking out trying to decipher its meaning. Was I Hacked? Did I do this In my sleep? Demon shit? ...no, it’s just the default Pages template with Lorem Ipsum.",
+    "replies": 216,
+    "likes": 52700,
+    "date": "August 6th, 2022",
+    "time": "9:13 AM"
+  },
+  {
+    "avatarUrl": "https://i.pravatar.cc/100?img=2",
+    "username": "Alice",
+    "handle": "@alice123",
+    "content": "Just finished my React project 🚀 #100DaysOfCode",
+    "replies": 32,
+    "likes": 540,
+    "date": "September 10th, 2022",
+    "time": "11:45 AM"
+  },
+  {
+    "avatarUrl": "https://i.pravatar.cc/100?img=3",
+    "username": "Bob",
+    "handle": "@bob_dev",
+    "content": "TypeScript makes everything so much safer 😎",
+    "replies": 10,
+    "likes": 120,
+    "date": "September 12th, 2022",
+    "time": "3:20 PM"
+  }
+]
