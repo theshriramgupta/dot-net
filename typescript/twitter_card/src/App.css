@@ -42,6 +42,7 @@ body {
   display: flex;
   align-items: center;
   gap: 10px;
+  padding: 10px;
 }
 
 .header img {
@@ -62,11 +63,12 @@ body {
 .content {
   margin: 10px 0;
   line-height: 1.5;
+  padding-bottom: 5px;
 }
 
 .stats {
   display: flex;
-  gap: 20px;
+  gap: 10px;
   margin-top: 10px;
   color: #71767b;
   font-size: 0.9rem;
